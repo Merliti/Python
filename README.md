@@ -2,7 +2,7 @@
 ## Basics
 ### Hello World
 **What is this project about?**
-This is a *beginning* to learning phython for Data Science.
+This is a *beginning* to learning python for Data Science.
 >*Data is the new science*
 > -Pat Gelsinger
 
