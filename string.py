@@ -18,7 +18,7 @@ hello = "Welcome to python"
 
 for cr in hello:
     print(cr)
-    cr+=1
+
 
 """
     length of a string: len(<<string>>
@@ -33,7 +33,7 @@ print("ass" in txt)
 print("Eff" not in txt)
 
 """
-    slicing of string: <<string>>[<<start_index>>:<<end_index>>]
+    slicing of string: <<string>>[<<start_index>> : <<end_index>>]
     slice from a position to end: <<string>>[<<start_index>>:]
     slice form end to a position: use negative index
 """
