@@ -7,3 +7,4 @@ print(12+10)
 name = "Shepard"
 
 print(name)
+print(type(name))
